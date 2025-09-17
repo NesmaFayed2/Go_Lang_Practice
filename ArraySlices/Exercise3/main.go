@@ -25,6 +25,8 @@ func main(){
 
 	var array [dataSize] int
 
+
+
 	for i:=range array{
 		array[i]= input.GetRandInt(-10,10)
 	}

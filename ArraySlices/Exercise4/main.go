@@ -7,10 +7,10 @@ import (
 	"first/ArraySlices/Exercise4/temp"
 )
 
-func main(){
+func main() {
 
 	temp.Print()
 	cart.Shop()
-	
+
 	fmt.Printf("")
 }
