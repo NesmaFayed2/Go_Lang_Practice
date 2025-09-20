@@ -28,4 +28,5 @@ func main() {
 	wg.Wait()
 	fmt.Printf("Map length = %d\n", len(m)) // should always be 500
 	fmt.Println("Sample values:", m)
+
 }
